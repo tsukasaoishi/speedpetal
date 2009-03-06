@@ -1,0 +1,7 @@
+History.txt
+Manifest.txt
+README.rdoc
+Rakefile
+lib/speedpetal.rb
+ext/extconf.rb
+ext/speedpetal.c
