@@ -8,7 +8,7 @@ Fast thumbnail Image generator.
 
 == INSTALL:
 
-* gem install sppepetal
+* gem install speedpetal
 
 == LICENSE:
 
