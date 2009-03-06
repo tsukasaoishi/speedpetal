@@ -8,7 +8,7 @@ Fast thumbnail Image generator.
 
 == INSTALL:
 
-* gem install speedpetal
+* sudo gem install tsukasaoishi-speedpetal
 
 == LICENSE:
 
