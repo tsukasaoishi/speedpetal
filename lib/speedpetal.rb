@@ -3,5 +3,5 @@ $:.unshift(File.dirname(__FILE__)) unless
 
 require 'speedpetal.so'
 module Speedpetal
-  VERSION = '0.0.1'
+  VERSION = '0.0.2'
 end

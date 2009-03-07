@@ -2,3 +2,8 @@
 
 * 1 major enhancement:
   * Initial release
+
+== 0.0.2 2009-03-07
+
+* 1 minor enhancement:
+  * bug fix
